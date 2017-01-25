@@ -1,4 +1,4 @@
-![TigeRFID](assets/tigerfid.jpg)
+![TigeRFID](tigerfid/_assets/tigerfid.jpg)
 # CC Jammer
 
 ## Introduction
