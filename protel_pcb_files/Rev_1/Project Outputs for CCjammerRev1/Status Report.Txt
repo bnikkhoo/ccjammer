@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CCjammerRev1.PrjPCB]
+   Generated File[CCjammerRev1.TXT]
+   Generated File[CCjammerRev1.DRL]
+   Generated File[CCjammerRev1.LDP]
+   Generated File[CCjammerRev1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:35:27 PM On 8/27/2012

@@ -1,0 +1,187 @@
+*************************************************************
+FileName = CCjammerRev0.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : CCjammerRev0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Title
+
+    Adding Layer      : Notes
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : CCjammerRev0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Title
+
+    Adding Layer      : Notes
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CCjammerRev0.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Title
+
+    Adding Layer      : Notes
+
+
+Used DCodes :
+    D10
+    D16
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CCjammerRev0.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Title
+
+    Adding Layer      : Notes
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CCjammerRev0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Title
+
+    Adding Layer      : Notes
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : CCjammerRev0.GD1
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Title
+
+    Adding Layer      : Notes
+
+    Adding Layer      : Drill Drawing
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+

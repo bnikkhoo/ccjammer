@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GATEDRV Pin=R2-2
+Change Component Comment : Designator=R2 Old Comment=3K New Comment=2K
+Change Component Comment : Designator=U1 Old Comment=MIC1555 New Comment=MIC1557
+Added Component: Designator=R1(0603_072205)
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1

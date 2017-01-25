@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GATEDRV Pin=R1-2
+Change Component Footprint: Designator=D1 Old Footprint=SOD323_072005 New Footprint=DIODE_FSC_091912
+Change Component Comment : Designator=D1 Old Comment=DIODE New Comment=1SS416
+Added Pin To Net: NetName=GATEDRV Pin=R2-2

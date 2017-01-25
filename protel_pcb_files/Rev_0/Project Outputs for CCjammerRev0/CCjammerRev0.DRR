@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CCjammerRev0.PcbDoc   4/18/2012  7:54:22 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CCjammerRev0.TXT
+EIA File   : CCjammerRev0.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          2                286.35 Inch (7273.25 mm)
+---------------------------------------------------------------------------
+Totals                                            2                286.35 Inch (7273.25 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

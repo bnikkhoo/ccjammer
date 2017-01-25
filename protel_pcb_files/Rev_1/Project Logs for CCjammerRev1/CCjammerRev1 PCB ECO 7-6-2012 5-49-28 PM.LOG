@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=ANTENNA Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=ANTENNA Pin=D1-3
+Removed Pin From Net: NetName=ANTENNA Pin=R1-1
+Removed Pin From Net: NetName=GATEDRV Pin=U1-3
+Removed Member From Class: ClassName=CCjammerRev0_TOP Member=C1
+Removed Member From Class: ClassName=CCjammerRev0_TOP Member=R1
+Change Component Comment : Designator=C3 Old Comment=10uf New Comment=0.1uf
+Change Component Comment : Designator=R2 Old Comment=46K New Comment=3K
+Change Component Comment : Designator=D1 Old Comment=BAT721A New Comment=DIODE
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=GATEDRV Pin=U1-5
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R2-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-1
+Added Net: Name=NetC3_2
+Change Class Name : Old Net Name=CCjammerRev0_TOP New Net Name=CCjammerRev1_TOP
+Added Room: Name=CCjammerRev1_TOP
