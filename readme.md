@@ -1,4 +1,4 @@
-![TigeRFID](https://github.com/tourajghaffari/tigerfid/_assets/tigerfid.jpg)
+![TigeRFID](_assets/tigerfid.jpg)
 # CC Jammer
 
 ## Introduction
